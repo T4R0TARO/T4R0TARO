@@ -32,8 +32,6 @@ Front-end developer who enjoys building interactive user experiences through cod
           
           
           
-
-          
 <!--
 **T4R0TARO/T4R0TARO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 align="left" alt="html" width="30px" style="padding-right:10px;"
