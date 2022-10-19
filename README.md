@@ -1,10 +1,10 @@
-### Joshua Manansala 
+### 🍙 Joshua Manansala 
 **`Self-taught Front-end Developer`**
 
 Front-end developer who enjoys building interactive user experiences through code. I specialize in web development, turning your ideas into creative solutions. I currently building personal projects with HTML5, CSS3, JS, and React. I enjoy converting designs into responsive and interactive user experiences. I am actively staying current with emerging trends, and ensuring to implement industry best practices, as well as adapt to changing modern technologies and programs. Interest in learning future technologies such as ExpressJS, MongoDB, TypeScript, and Jest. 
 
 ---
-### Languages and Tools
+### 🛠 Languages and Tools
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -20,12 +20,12 @@ Front-end developer who enjoys building interactive user experiences through cod
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <br />         
            
-### Stats
+### 📊Stats
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4R0TARO&show_icons=true&theme=material-palenight)
           
  <details>
-          <summary><h3>Josh's Coding Journey</h3></summary>
+          <summary><h3>🍸➡👨‍💻Josh's Coding Journey</h3></summary>
            Before learning to code I was bartender, but I always had an interest in technology. I would then take learning to code seriously during the covid lockdown and continued learning ever since. I started with free resources like freecodecamp, MDN documentation, Havard CS50, EloquentJS, and bunch of YouTube videos and blogs (The usually learning to code grind). I really enjoyed the creating aspect of coding, aside from the head banging and hair pulling that occurs when you have an unknown bug, the sense of accomplishment of creating something is a familiar feeling that I enjoy. Drawing is my other hobby which I found many similarities when comparing the process of learning. Repetition and exposure is most important. Drawing the profile of a head with various different angles over and over is equivalent to centering a div or finding an algorithim that is less than O(n^2)time complexity.
  </details>         
           
