@@ -32,7 +32,7 @@ Front-end developer who enjoys building interactive user experiences through cod
 <img align="left" alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <br />  
 
-### 📊Stats
+### 📊 Stats
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4R0TARO&show_icons=true&theme=material-palenight)
           
