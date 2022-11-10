@@ -1,5 +1,10 @@
 ### 🍙 Joshua Manansala 
 **`Self-taught Front-end Developer`**
+<br />
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=for-the-badge&logo=appveyor&logo=aboutdotme&logoColor=black)](https://t4r0taro.github.io/portfolio/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-manansala-59a40279/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taro_code)
 
 Front-end developer who enjoys building interactive user experiences through code. I specialize in web development, turning your ideas into creative solutions. Currently, I'm building personal projects with HTML5, CSS3, JS, and React. I enjoy converting designs into responsive and interactive user experiences. I am actively staying current with emerging trends, and ensuring to implement industry best practices, as well as adapt to changing modern technologies and programs. Interest in learning future technologies such as ExpressJS, MongoDB, TypeScript, and Jest. 
 
