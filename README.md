@@ -40,7 +40,11 @@ Front-end developer who enjoys building interactive user experiences through cod
 ### 📊 Stats
 
 ![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=T4R0TARO&show_icons=true&theme=material-palenight)
-          
+
+![GitHub Streak](https://streak-stats.demolab.com?user=T4R0TARO&count_private=true&theme=tokyonight&border_radius=5)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T4R0TARO&layout=compact&theme=material-palenight)](https://github.com/T4R0TARO/github-readme-stats)
+
  <details>
           <summary><h3>🍸➡🐱‍💻Josh's Coding Journey</h3></summary>
            Bartender, self-taught developer.  
