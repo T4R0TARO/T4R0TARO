@@ -2,7 +2,7 @@
 **`Self-taught Front-end Developer`**
 <br />
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=for-the-badge&logo=appveyor&logo=aboutdotme&logoColor=black)]([https://t4r0taro.github.io/portfolio/])
+[![Portfolio](https://img.shields.io/badge/-Portfolio-d3d3d3?&style=for-the-badge&logo=appveyor&logo=aboutdotme&logoColor=black)](https://t4r0taro.github.io/react-portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-manansala-59a40279/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/taro_code)
 
